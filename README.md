@@ -15,6 +15,11 @@ This project demonstrates **interpretable machine learning in insurance** by com
 The workflow bridges the gap between black-box ML and regulatory requirements (model interpretability, fairness, explainability).
 
 ---
+## Data
+
+**Source:** [freMTPL dataset](https://www.kaggle.com/datasets/karansarpal/fremtpl-french-motor-tpl-insurance-claims) (French Motor Third-Party Liability)
+
+---
 
 ## Key Insights
 
